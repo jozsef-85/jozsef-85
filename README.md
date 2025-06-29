@@ -7,25 +7,25 @@
 ¡Hola! Soy José, Administrador de Sistemas con experiencia en entornos Windows y Linux, especializado en la administración de infraestructura para aplicaciones .NET. Me desempeño en entornos altamente regulados bajo normativas PCI-DSS e ISO 27001, gestionando servidores, redes, despliegues automatizados y soluciones en la nube (Azure y AWS).
 
 🚀 Lo que hago
-	•	🖥 Administro servidores Windows y Linux.
-	•	🌐 Gestiono servidores web con IIS, despliegues de aplicaciones .NET y entornos de integración continua.
-	•	☁ Trabajo con servicios en la nube: Azure, AWS, y Google Cloud.
-	•	🔐 En armonia con la seguridad de la información
-	•	🛠 Automatizo tareas con PowerShell, Bash y herramientas como GoAnywhere MFT.
+- 🖥 Administro servidores Windows y Linux.
+- 🌐 Gestiono servidores web con IIS, despliegues de aplicaciones .NET y entornos de integración continua.
+- ☁ Trabajo con servicios en la nube: Azure, AWS, y Google Cloud.
+- 🔐 En armonia con la seguridad de la información
+- 🛠 Automatizo tareas con PowerShell, Bash y herramientas como GoAnywhere MFT.
 
 📚 En constante aprendizaje
 Me encuentro perfeccionando mis habilidades en:
-	•	Despliegue continuo (CI/CD)
-	•	Contenedores y orquestación (Docker, Kubernetes)
-	•	Seguridad y cumplimiento en infraestructura crítica
-	•	Scripting avanzado y automatización de procesos repetitivos
+- Despliegue continuo (CI/CD)
+- Contenedores y orquestación (Docker, Kubernetes)
+- Seguridad y cumplimiento en infraestructura crítica
+- Scripting avanzado y automatización de procesos repetitivos
 
 🤝 ¿Colaboramos?
 Me interesa contribuir a proyectos relacionados con:
-	•	Administración de infraestructura
-	•	Automatización y DevOps
-	•	Seguridad y cumplimiento
-	•	Herramientas para sysadmins
+- Administración de infraestructura
+- Automatización y DevOps
+- Seguridad y cumplimiento
+- Herramientas para sysadmins
 
 📫 Contacto
 Puedes conectarte conmigo a través de LinkedIn o revisar mis repositorios aquí en GitHub. ¡Estoy abierto a colaborar o compartir ideas!
