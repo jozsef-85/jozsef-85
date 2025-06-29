@@ -8,8 +8,8 @@
 
 🚀 Lo que hago
 - 🖥 Administro servidores Windows y Linux.
-- 🌐 Gestiono servidores web con IIS, despliegues de aplicaciones .NET y entornos de integración continua.
-- ☁ Trabajo con servicios en la nube: Azure, AWS, y Google Cloud.
+- 🌐 Gestiono servidores web con IIS, despliegues de aplicaciones .NET.
+- ☁ Trabajo con servicios en la nube: Azure y AWS.
 - 🔐 En armonia con la seguridad de la información
 - 🛠 Automatizo tareas con PowerShell, Bash y herramientas como GoAnywhere MFT.
 
