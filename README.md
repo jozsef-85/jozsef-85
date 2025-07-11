@@ -4,7 +4,7 @@
 
 🧑‍💻 Sobre mí
 
-¡Hola! Soy José, Administrador de Sistemas con experiencia en entornos Windows y Linux, especializado en la administración de infraestructura para aplicaciones .NET. Me desempeño en entornos altamente regulados bajo normativas PCI-DSS e ISO 27001, gestionando servidores, redes, despliegues automatizados y soluciones en la nube (Azure y AWS).
+¡Hola! Soy José, Administrador de Sistemas con experiencia en entornos Windows y Linux, especializado en la administración de infraestructura para aplicaciones .NET. Me desempeño en entornos altamente regulados bajo normativas PCI-DSS e ISO 27001, gestionando servidores, redes y en despliegues automatizados y soluciones en la nube.
 
 🚀 Lo que hago
 - 🖥 Administro servidores Windows y Linux.
